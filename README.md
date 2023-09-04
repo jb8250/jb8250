@@ -6,6 +6,7 @@
   - [JBWipe (Disk Wiping Utility)](https://github.com/jb8250/jbwipe)
   - [FIM (File Integrity Monitor)](https://github.com/jb8250/fim)
 - <b>Python</b>
+  - [Port Scanner](https://github.com/jb8250/portscanner)
   - [Password Strength Tester](https://github.com/jb8250/passwordstrength)
   - [Intrusion Detection System](https://github.com/jb8250/ids)
 - <b>Labs</b>
