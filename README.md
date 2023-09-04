@@ -14,7 +14,8 @@
 - <b>Python</b>
   - [Password Strength Tester](https://github.com/jb8250/passwordstrength)
   - [Intrusion Detection System](https://github.com/jb8250/ids)
-    
+- <b>Labs</b>
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
