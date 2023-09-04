@@ -4,7 +4,6 @@
 
 - <b>PowerShell</b>
   - [JBWipe (Disk Wiping Utility)](https://github.com/jb8250/jbwipe)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/jb8250/fim)
 - <b>Python</b>
   - [Password Strength Tester](https://github.com/jb8250/passwordstrength)
