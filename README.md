@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshua-baldwin81">Cybersecurity Professional</a>
+<h1>Hi, I'm Josh! <br/><a href="https://www.linkedin.com/in/joshua-baldwin81">Cybersecurity Professional</a>,<a href="https://github.com/joshmadakor1">Programmer</a>
 
 <h2>👨‍💻 Cybersecurity/Software Development Projects:</h2>
 
