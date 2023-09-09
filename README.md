@@ -1,7 +1,7 @@
 # Hi, I'm Josh! 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cybersecurity%20Professional%2C%20Programmer-blue)](https://www.linkedin.com/in/joshua-baldwin81)
 
-## 👨‍💻 Cybersecurity/Software Development Projects:
+## 👨‍💻 Cybersecurity/Data Science Projects:
 
 - **PowerShell**
   - [JBWipe (Disk Wiping Utility)](https://github.com/jb8250/jbwipe)
@@ -11,7 +11,8 @@
   - [Port Scanner](https://github.com/jb8250/portscanner)
   - [Password Strength Tester](https://github.com/jb8250/passwordstrength)
   - [Intrusion Detection System](https://github.com/jb8250/ids)
-
+  - [Weather Dataset](https://github.com/jb8250/pythonweather)
+  - [Cars Dataset](https://github.com/jb8250/pythoncars)
 - **Labs**
   - [Azure Vulnerability Management](https://github.com/jb8250/azurevuln)
     
