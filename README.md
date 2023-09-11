@@ -13,6 +13,7 @@
   - [Intrusion Detection System](https://github.com/jb8250/ids)
   - [Weather Dataset](https://github.com/jb8250/pythonweather)
   - [Cars Dataset](https://github.com/jb8250/pythoncars)
+  - [Police Dataset](https://www.kaggle.com/joshuaadambaldwin/python-data-analytics-project-police)
 - **Labs**
   - [Azure Vulnerability Management](https://github.com/jb8250/azurevuln)
     
